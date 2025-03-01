@@ -18,8 +18,8 @@ Crafting seamless web experiences with React.js & clean code.
 ---
 
 ### 📌 Projects  
-- 🎬 *Movie Review App* – React.js, CSS Modules, REST APIs  
-- 🌐 *Portfolio Website* – HTML, CSS, JavaScript, Responsive Design  
+- 🌐 *WorldWise App* – React.js,Vite,React Router
+- 🎬 *Movie Hive App* – React Hooks,The Movie Database API
 📌 Check out my repositories for more projects!  
 
 ---
