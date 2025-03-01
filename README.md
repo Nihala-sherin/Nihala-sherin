@@ -1,5 +1,5 @@
 # Hi, I'm Nihala Sherin! 👋  
-### 🚀 Front-End Developer | React.js Enthusiast | UI/UX Learner  
+### 🚀 Web Developer | Front-End Enthusiast | React.js  
 Building Responsive, User-Friendly Web Applications.
 
 ---
