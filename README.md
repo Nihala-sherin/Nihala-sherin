@@ -29,4 +29,4 @@ Building Responsive, User-Friendly Web Applications.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihalasherin254@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihala-sherin)
 ---
 
-🌿 *"When I'm not coding, I'm either lost in a book or jotting down thoughts in my journal🌜📓"*
+🌿 *"When I'm not coding, I'll be jotting down thoughts in my journal🌜📓"*
