@@ -20,8 +20,9 @@ Building Responsive, User-Friendly Web Applications.
 
 ### 📌 Projects  
 <!--- 🌐 *WorldWise App* – React.js,Vite,React Router -->
-- 🎬 *Movie Hive App* – React Hooks,The Movie Database API
-- 🔵 *Quiz App* – useReducer Hook,Fake API
+- 🏢 *Construction Company Management System*
+- 🎬 *Movie Hive App*
+- 🔵 *Quiz App*
 - 📌 Check out my repositories for more details!  
 
 ---
